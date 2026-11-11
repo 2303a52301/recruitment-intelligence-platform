@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+fastapi
+uvicorn
+streamlit
+pypdf
+httpx
+pytest
+ruff
